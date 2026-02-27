@@ -1,3 +1,5 @@
+# NAME: TANUJA S
+# REGISTER NO: 212224060277
 # Ideal, Natural, & Flat-top -Sampling
 # Aim
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
